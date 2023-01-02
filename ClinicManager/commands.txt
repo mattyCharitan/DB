@@ -1,0 +1,2 @@
+Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\מטי\source\repos\ClinicManager\DB\Clinic.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context ClinicContext -force
+
